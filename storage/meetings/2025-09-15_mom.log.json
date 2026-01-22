@@ -1,0 +1,12 @@
+{
+  "model_name": "google/flan-t5-base",
+  "lora_dir": "artifacts/flan_t5_minutes_lora",
+  "device": "mps",
+  "context_len": 512,
+  "target_len": 512,
+  "transcript_path": "samples/sample_transcript.txt",
+  "output_path": "storage/meetings/2025-09-15_mom.md",
+  "date_used": "17/09/2025",
+  "sample_mode": false,
+  "chunks_used": 24
+}

@@ -1,0 +1,16 @@
+torch
+openai-whisper
+transformers
+peft
+datasets
+accelerate
+sentencepiece
+langchain
+langchain-community
+langchain-ollama
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+rouge-score
+scikit-learn

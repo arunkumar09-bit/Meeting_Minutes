@@ -1,0 +1,1 @@
+MINUTES OF MEETING Date: 17/09/2025 Agenda and Outcomes: 1. Gymkhana Fee Structure / Fee Hike: Gymkhana Fees have been raised for the past 3 years due to an increase in the number of student activities. Likewise, hike in sports fees as the sports facilities have increased.

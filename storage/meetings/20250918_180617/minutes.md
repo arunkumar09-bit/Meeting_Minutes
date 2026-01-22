@@ -1,0 +1,1 @@
+MINUTES OF MEETING Date: 18/09/2025 Section Notes: Gymkhana Fee Structure / Fee Hike: Gymkhana Fees have been raised for the past 3 years due to an increase in the number of student activities. Likewise, hike in sports fees as the sports facilities have increased.

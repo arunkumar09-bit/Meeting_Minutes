@@ -1,0 +1,52 @@
+MINUTES OF MEETING
+
+Date: 04/07/2023
+
+Agenda and Outcomes:
+1. Fee Structure / Fee Hike
+   • Issue: Clarification on hike in Gymkhana and sports fees.
+   • Discussion: Fees raised over past 3 years due to increased activities and facilities.
+   • Resolution/Decision: Engage PHD/PG reps (5 total) for deeper fee-structure discussion.
+   • Action Item: Gymkhana to nominate 5 reps; Director’s office to schedule follow-up.
+
+2. Hostel Establishment & Amenities Charges
+   • Issue: Why collected despite hostel/mess charges.
+   • Discussion: Used for building maintenance, housekeeping, etc.; granular breakdown not feasible.
+   • Resolution/Decision: Continue current practice.
+   • Action Item: Admin to publish a short note describing heads of expenditure.
+
+3. Student Welfare Fund
+   • Issue: Purpose and utilization.
+   • Discussion: Used where insurance cannot be used; also for critical mess expense support.
+   • Resolution/Decision: Maintain current collection and utilization framework.
+   • Action Item: Admin to share anonymized yearly utilization summary.
+
+4. Freshers Orientation
+   • Issue: Request for 6 days prior to session.
+   • Discussion: Class start fixed (list by 26 Jul; classes from 31 Jul); Director allows 10–15 days parallel orientation.
+   • Resolution/Decision: No 6-day exclusive block; allow 2 days of academic orientation + parallel activities.
+   • Action Item: Gymkhana to submit 10–15 day parallel orientation plan; Acad office to confirm 2-day academic orientation.
+
+5. Hostel Complaints Ticketing System
+   • Issue: Need structured complaint tracking.
+   • Discussion: Prototype requested; HCU Chair available for support.
+   • Resolution/Decision: Green light to build prototype.
+   • Action Item: Gymkhana tech team to deliver prototype; demo to HCU.
+
+6. Housekeeping Feedback Loop
+   • Issue: Cleaning frequency & feedback capture.
+   • Discussion: Director: 3 cleanings/day + feedback system; HCU: offline daily reporting.
+   • Resolution/Decision: Implement daily feedback reporting.
+   • Action Item: HCU to roll out forms; staff to submit EOD logs.
+
+7. Food Facilities in New Hostel
+   • Issue: Lack of options.
+   • Discussion: Tenders recently floated.
+   • Resolution/Decision: Proceed per tender outcome.
+   • Action Item: CMD to update timeline post-tender.
+
+8. Selection of ELAN Head
+   • Issue: Only prior Finance Head applied; concerns about past finance handling.
+   • Discussion: Director not in favor of that candidature; consider internal Gymkhana leadership.
+   • Resolution/Decision: Seek alternate candidate(s).
+   • Action Item: Gymkhana to nominate new candidates.
