@@ -1,6 +1,6 @@
 # Meeting Minutes & Q&A Agent
 
-**Author:** Yerragudi Arun Kumar 
+**Author:** Yerragudi Arun Kumar  
 **University:** Indian Institute of Technology Hyderabad  
 **Department:** Civil Engineering  
 
